@@ -5,7 +5,7 @@
     },
     "resources": [
         {
-            "name": "NewPortScan"
+            "name": "NewPortScan",
             "type": "Microsoft.OperationalInsights/workspaces/providers/alertRules",
             "kind": "Scheduled",
             "apiVersion": "2022-09-01-preview",
